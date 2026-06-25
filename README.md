@@ -2,7 +2,7 @@
 
 A multi-agent AI pipeline that reviews your code using **3 specialized agents** powered by **Gemini 2.5 Flash**.
 
-Built as a capstone project for the [Google x Kaggle 5-Day AI Agents Intensive (2026)](https://www.kaggle.com/competitions/vibecoding-agents-capstone-project).
+Built as a capstone project for the [Google x Kaggle 5-Day AI Agents Intensive (2026)](https://www.kaggle.com/competitions/vibecoding-agents-capstone-project). 
 
 ---
 
