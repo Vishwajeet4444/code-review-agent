@@ -1,6 +1,6 @@
 # 🤖 CodeReview Agent
 
-A multi-agent AI pipeline that reviews your code using **3 specialized agents** powered by **Gemini 1.5 Flash**.
+A multi-agent AI pipeline that reviews your code using **3 specialized agents** powered by **Gemini 2.5 Flash**.
 
 Built as a capstone project for the [Google x Kaggle 5-Day AI Agents Intensive (2026)](https://www.kaggle.com/competitions/vibecoding-agents-capstone-project).
 
@@ -26,7 +26,7 @@ Each agent's output feeds into the next — making this a true sequential multi-
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/code-review-agent
+git clone https://github.com/Vishwajeet4444/code-review-agent
 cd code-review-agent
 ```
 
